@@ -1,0 +1,2 @@
+# spintax
+GitHub Pages
